@@ -1,5 +1,5 @@
 [package]
-name = "rust-book-hello"
+name = "hello"
 version = "0.1.0"
 authors = ["Danny Guo <dannyguo91@gmail.com>"]
 
